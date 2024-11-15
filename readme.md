@@ -1,5 +1,5 @@
 # Snake game
-A classic Snake game implemented in Python using the Pygame library.
+A classic Snake game implemented in Python using the Pygame library. The majority of the code was generated with the assistance of ChatGPT, with modifications and tweaks made by me to customize the gameplay mechanics. The primary purpose of this project is to serve as a foundation for exploring reinforcement learning techniques.
 
 ## Features
 - **Grid based movement:** The snake moves on a grid using arrow keys.
